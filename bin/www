@@ -1,5 +1,5 @@
 #!/usr/bin/env node
-
+//copied from http://labs.roitraining.com/labs/gcp-node-express-cloud-functions/index.html#3
 /**
  * Module dependencies.
  */
